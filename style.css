@@ -1,0 +1,465 @@
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.div {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.div-2 {
+  background-color: rgba(29, 23, 22, 1);
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  color: #a55233;
+  font-weight: 400;
+  justify-content: center;
+  padding: 80px 60px;
+}
+
+.div-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 29px 0 38px;
+}
+
+.img {
+  aspect-ratio: 0.71;
+  object-fit: auto;
+  object-position: center;
+  width: 224px;
+  max-width: 100%;
+}
+
+.div-4 {
+  margin-top: 42px;
+  font-family: "Unica One", sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.div-5 {
+  align-self: center;
+  margin-top: 23px;
+  max-width: 1028px;
+  font-family: "Bad Script", cursive;
+  font-size: 80px;
+}
+
+.div-6 {
+  background-color: #f5f5f5;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+  justify-content: center;
+  padding: 80px 200px;
+}
+
+.div-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 6px 0 17px;
+}
+
+.img-2 {
+  aspect-ratio: 3.7;
+  object-fit: auto;
+  object-position: center;
+  width: 433px;
+  max-width: 100%;
+}
+
+.div-8 {
+  color: #000;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 25px;
+  align-self: stretch;
+  margin-top: 51px;
+}
+
+.div-9 {
+  color: #000;
+  font-family: Kotta One, sans-serif;
+  font-style: italic;
+  font-size: 20px;
+  margin-top: 76px;
+}
+
+.div-10 {
+  color: #000;
+  text-align: center;
+  margin-top: 123px;
+  font-size: 28px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  padding: 0px 200px;
+}
+
+.div-11 {
+  margin-top: 63px;
+  width: 100%;
+  max-width: 997px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px;
+}
+
+.div-12 {
+  gap: 20px;
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: normal;
+  width: 33%;
+}
+
+.img-3 {
+  aspect-ratio: 1;
+  object-fit: auto;
+  object-position: center;
+  width: 233px;
+  border-color: rgba(29, 23, 22, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 50%;
+  max-width: 100%;
+}
+
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 34%;  
+}
+
+.div-13 {
+  color: #a55233;
+  margin: 138px auto 0;
+  font-family: "Bad Script", cursive;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.column-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: normal;
+  width: 33%;
+}
+
+.img-4 {
+  aspect-ratio: 1;
+  object-fit: auto;
+  object-position: center;
+  width: 233px;
+  border-color: rgba(29, 23, 22, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 50%;
+  max-width: 100%;
+}
+
+.div-14 {
+  margin-top: 8px;
+  width: 100%;
+  max-width: 1333px;
+}
+
+.div-15 {
+  gap: 20px;
+  display: flex;
+}
+
+.column-4 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 0px;
+}
+
+.div-16 {
+  display: flex;
+  text-align: center;
+  flex-grow: 1;
+  flex-direction: column;
+  color: #a55233;
+  font-weight: 400;
+  padding: 0 20px;
+}
+
+.div-17 {
+  align-self: center;
+  text-align: center;
+  font-family: "Bad Script", cursive;
+  font-size: 80px;
+}
+
+
+.div-18 {
+  margin-top: 10px;
+  font-size: 35px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+.column-5 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 50%;
+  margin-left: 20px;
+}
+
+.div-19 {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  color: #a55233;
+  font-weight: 400;
+  padding: 0 20px;
+}
+
+.div-20 {
+  align-self: center;
+  text-align: center;
+  font-family: "Bad Script", cursive;
+  font-size: 80px;
+}
+
+.div-21 {
+  margin-top: 10px;
+  font-size: 35px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+.div-22 {
+  background-color: #1d1716;
+  align-self: stretch;
+  display: flex;
+  margin-top: 99px;
+  flex-direction: column;
+  align-items: center;
+  padding: 41px 60px 80px;
+}
+
+.img-5 {
+  aspect-ratio: 0.71;
+  object-fit: auto;
+  object-position: center;
+  width: 135px;
+  align-self: center;
+  max-width: 100%;
+}
+
+.div-23 {
+ 
+  margin-bottom: 55px;
+  width: 100%;
+  max-width: 1210px;
+  display: flex;
+  justify-content: space-between; /* Mengatur elemen agar sejajar */
+}
+.div-23 .text {
+  font-size: 24px; /* Ukuran teks default */
+}
+
+
+.div-24 {
+  gap: 20px;
+  display: flex;
+}
+
+.column-6 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+}
+
+.div-25 {
+  display: flex;
+  margin-top: 117px;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+  color: #d5ae85;
+  font-weight: 400;
+}
+
+.div-26 {
+  color: #a55233;
+  align-self: center;
+  font-family: "Bad Script", cursive;
+  font-size: 45px;
+}
+
+.div-27, .div-34 {
+  font-size: 25px;
+  font-family: "Bad Script", cursive;
+  text-align: center;
+  margin-top: 33px;
+  width: 252px;
+}
+
+.div-28, .div-35 {
+  text-align: center;
+  margin-top: 43px;
+  font-family: "Bad Script", cursive;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.div-29, .div-36 {
+  text-align: center;
+  font-size: 32px;
+  font-family: "Bad Script", cursive;  
+  font-weight: bold;
+}
+
+.div-30, .div-37 {
+  text-align: center;
+  align-self: stretch;
+  margin-top: 53px;
+  font-size: 20px;
+  font-family: "Bad Script", cursive;
+}
+
+.column-7 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 34%;
+}
+
+.div-31 {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-6 {
+  object-fit: auto;
+  object-position: center;
+  width: 100%;
+  margin-top: 56px;
+  border-radius: 30px;
+}
+
+.column-8 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 33%;
+}
+
+.div-32 {
+  display: flex;
+  margin-top: 117px;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+  color: #d5ae85;
+  font-weight: 400;
+}
+
+.div-33 {
+  color: #a55233;
+  align-self: center;
+  font-family: "Bad Script", cursive;
+  font-size: 50px;
+}
+
+.column-9 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 19%;
+  margin-left: 0px;
+}
+
+.img-7 {
+  aspect-ratio: 0.71;
+  object-fit: auto;
+  object-position: center;
+  width: 135px;
+  margin-top: 406px;
+  max-width: 100%;
+}
+
+.column-10 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 66%;
+  margin-left: 20px;
+}
+
+.div-38 {
+  margin-top: 56px;
+  width: 976px;
+  max-width: 100%;
+  padding: 0 20px;
+}
+
+.div-39 {
+  gap: 20px;
+  display: flex;
+}
+
+.column-11 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 16%;
+  margin-left: 20px;
+}
+
+.img-9 {
+  aspect-ratio: 0.71;
+  object-fit: auto;
+  object-position: center;
+  width: 135px;
+  margin-top: 406px;
+  max-width: 100%;
+}
+
+.img-8 {
+  object-fit: auto;
+  object-position: center;
+  width: 600px;
+  margin-top: 56px; /* Sesuaikan margin-top sesuai kebutuhan */
+  max-width: 100%;
+  margin-bottom: 50px;
+  border-radius: 40px;
+}
+
+.div-41 {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 20px; /* Ubah ukuran font sesuai kebutuhan */
+  font-weight: normal; /* Atur ketebalan font, misalnya: normal, bold, dsb */
+  text-align: center; /* Atur penjajaran teks, misalnya: justify, left, right, dsb */
+  line-height: 1.5; /* Atur jarak antar baris */
+}
+
+.div-42 {
+  text-align: center; /* Atur penjajaran teks, misalnya: justify, left, right, dsb */
+  margin-top: 20px;
+  font-family: "Bad Script", cursive;
+  font-size: 50px;
+  font-weight: bold;
+}
